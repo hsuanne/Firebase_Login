@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application_Login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">808778816447833</string>
+    <string name="fb_login_protocol_scheme">fb808778816447833</string>
+    <string name="user_name">Name/UID: %1$s</string>
+    <string name="user_email">Email: %1$s</string>
+
+</resources>
